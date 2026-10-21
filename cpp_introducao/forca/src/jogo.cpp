@@ -3,13 +3,6 @@
 
 extern std::string palavra_secreta;
 
-void iniciar(){
-    std::cout << "*******************************" << std::endl;
-    std::cout << "***      JOGO DA FORCA      ***" << std::endl;
-    std::cout << "*******************************" << std::endl;
-}
-
-
 void fim_de_jogo(){
     std::cout << "Fim de jogo" << std::endl;
     std::cout << "A palavra secreta era " << palavra_secreta << std::endl;

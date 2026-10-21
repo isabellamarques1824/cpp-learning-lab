@@ -24,12 +24,11 @@ int main(){
         chutar();
     }
 
-    fim_de_jogo();
-
-    if(nao_acertou){
+    if(nao_acertou()){
         std::cout<<"Vc errrouuu, tchauu\n";
     }
     else{
+        fim_de_jogo();
         std::cout << "add nova palavra? (S/N) ";
         char resposta;
         std::cin >> resposta;

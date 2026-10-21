@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\imprimir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_introducao\\forca\\src\\imprimir.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\jogo_forca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_introducao\\forca\\src\\jogo_forca.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\palavras.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_introducao\\forca\\palavras.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\jogo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:cpp_introducao\\forca\\src\\jogo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "imprimir.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\imprimir.cpp",
+              "RelativeDocumentMoniker": "cpp_introducao\\forca\\src\\imprimir.cpp",
+              "ToolTip": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\imprimir.cpp",
+              "RelativeToolTip": "cpp_introducao\\forca\\src\\imprimir.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T21:28:41.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\README.md",
+              "RelativeDocumentMoniker": "README.md",
+              "ToolTip": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\README.md",
+              "RelativeToolTip": "README.md",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2026-10-21T04:04:11.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "jogo.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\jogo.cpp",
+              "RelativeDocumentMoniker": "cpp_introducao\\forca\\src\\jogo.cpp",
+              "ToolTip": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\jogo.cpp",
+              "RelativeToolTip": "cpp_introducao\\forca\\src\\jogo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T03:43:14.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "palavras.txt",
+              "DocumentMoniker": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\palavras.txt",
+              "RelativeDocumentMoniker": "cpp_introducao\\forca\\palavras.txt",
+              "ToolTip": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\palavras.txt",
+              "RelativeToolTip": "cpp_introducao\\forca\\palavras.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-10-21T03:42:11.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jogo_forca.cpp",
+              "DocumentMoniker": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\jogo_forca.cpp",
+              "RelativeDocumentMoniker": "cpp_introducao\\forca\\src\\jogo_forca.cpp",
+              "ToolTip": "C:\\Users\\Isabella\\cpp_learning\\cpp-learning-lab\\cpp_introducao\\forca\\src\\jogo_forca.cpp",
+              "RelativeToolTip": "cpp_introducao\\forca\\src\\jogo_forca.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-10-21T03:35:10.722Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
