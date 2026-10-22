@@ -1,10 +1,6 @@
 #include "imprimir.hpp"
 
-extern std::string palavra_secreta;
-extern std::map<char, bool> chutou;
-extern std::vector<char> chutes_errados;
-
-void imprimir_chutes_errados(){
+void imprimir_chutes_errados( const std::vector<char>& chutes_errados){
     std::cout << "Chutes errados: ";
         for(char letra: chutes_errados){
             std::cout << letra << " ";
@@ -12,9 +8,9 @@ void imprimir_chutes_errados(){
         std::cout << std::endl;
 }
 
-void imprimir_palavra_secreta(){
+void imprimir_palavra_secreta(const std::string& palavra_secreta, const std::map<char, bool>& chutou) {
     for(char letra: palavra_secreta){
-        if(chutou[letra]){
+        if(chutou.find(letra) == chutou.end() || !chutou.at(letra)){
             std::cout << letra << " ";
         }else{
             std::cout << "_ ";

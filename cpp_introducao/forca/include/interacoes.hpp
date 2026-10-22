@@ -8,7 +8,8 @@
 #include <cstdlib>
 #include "arquivos.hpp"
 #include "bool.hpp"
+#include <string>
 
-void chutar();
-void sortear();
+void chutar(std::map<char, bool>& chutou, std::vector<char>& chutes_errados);
+std::string sortear();
 void adiciona_palavra();

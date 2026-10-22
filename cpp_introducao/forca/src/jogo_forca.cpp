@@ -12,16 +12,15 @@ std::vector<char> chutes_errados;
 int main(){
 
     iniciar();
-    le_arquivo();
-    sortear();
+    palavra_secreta = sortear();
 
-    while(nao_acertou() && nao_enforcou()){
+    while(nao_acertou(palavra_secreta, chutou) && chutes_errados.size() < 5){
 
-        imprimir_chutes_errados();
+        imprimir_chutes_errados(chutes_errados);
 
-        imprimir_palavra_secreta();
+        imprimir_palavra_secreta(palavra_secreta, chutou);
 
-        chutar();
+        chutar(&chutou, &chutes_errados);
     }
 
     if(nao_acertou()){

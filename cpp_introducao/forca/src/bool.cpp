@@ -1,9 +1,5 @@
 #include "bool.hpp"
 
-extern std::string palavra_secreta;
-extern std::map<char, bool> chutou;
-extern std::vector<char> chutes_errados;
-
 bool letra_existe(char chute){
 
     for (char letra: palavra_secreta)
@@ -18,15 +14,11 @@ bool letra_existe(char chute){
     
 }
 
-bool nao_acertou(){
+bool nao_acertou(std::string& palavra_secreta, const std::map<char, bool>& chutou){
     for(char letra: palavra_secreta){
-        if(!chutou[letra]){
+        if(chutou.find(letra) == chutou.end() || !chutou.at(letra)){
             return true;
         }
     }
     return false;
-}
-
-bool nao_enforcou(){
-    return chutes_errados.size() < 5;
 }
