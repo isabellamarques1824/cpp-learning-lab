@@ -2,5 +2,7 @@
 #include <map>
 #include <vector>
 
-bool letra_existe(char chute);
-bool nao_acertou(std::string& palavra_secreta, const std::map<char, bool>& chutou);
+namespace Forca {
+	bool letra_existe(char chute, std::string palavra_secreta);
+	bool nao_acertou(std::string& palavra_secreta, const std::map<char, bool>& chutou);
+}
